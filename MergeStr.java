@@ -8,7 +8,7 @@ public class MergeStr {
 		String[]words={"We","are about to","Eat"};
 		String[]words2={"Stack","In","De brazil"};
 		System.out.print(Merge(words,words2));
-		
+		System.out.println("checking");
 	}
 
 	public static ArrayList<String> Merge(String[]words,String[]more){
